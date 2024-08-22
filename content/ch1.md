@@ -1,0 +1,3 @@
+# CHAPTER 1: SCALE FROM ZERO TO MILLIONS OF USERS
+
+![alt text](ch1-pic.png)
