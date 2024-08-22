@@ -4,7 +4,7 @@ Explore key concepts, insights, and summaries to enhance your understanding and 
 
 # Table of content
 
-- [CHAPTER 1: SCALE FROM ZERO TO MILLIONS OF USERS](content/ch-1.md)
+- [CHAPTER 1: SCALE FROM ZERO TO MILLIONS OF USERS](content/ch1.md)
 
 - [CHAPTER 2: BACK-OF-THE-ENVELOPE ESTIMATION](content/ch2.md)
 
