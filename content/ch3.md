@@ -1,0 +1,3 @@
+# CHAPTER 3: A FRAMEWORK FOR SYSTEM DESIGN INTERVIEWS
+
+![alt text](ch3-pic.png)
