@@ -1,3 +1,3 @@
 # CHAPTER 3: A FRAMEWORK FOR SYSTEM DESIGN INTERVIEWS
 
-![alt text](ch3-pic.png)
+![alt text](resources/ch3.png)
